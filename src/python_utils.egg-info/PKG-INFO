@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: python-utils
+Version: 0.1.0
+Summary: Useful utilities for python projects
+Author: Evgeniy Anistratov
+License-Expression: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: envparse<0.3.0,>=0.2.0
+Dynamic: license-file
+
+# Python utils
+This repository contains a package with useful utilities for Python projects.
+Here are the classes and functions for working with environment settings.
